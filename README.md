@@ -4,6 +4,7 @@ Course that provides an introduction to Machine Learning for PhD Students at TUM
 
 The content of the course is divided in 4 sessions (3h each):
 
+
 **S1: Introduction to Machine Learning and Data Preparation.** 
 
   **Goal:** Build a conceptual foundation and introduce the ML workflow with a focus on data.
@@ -17,6 +18,7 @@ The content of the course is divided in 4 sessions (3h each):
    - ML Workflow.
       
    - Data handling and Preprocessing.
+
       
 **S2: Supervised Learning: Classification and Regression.**
     
@@ -29,6 +31,7 @@ The content of the course is divided in 4 sessions (3h each):
    - Classification algorithms.
 
    - Regression algorithms.
+
       
 **S3: Unsupervised Learning: Clustering methods and Dimensionality reduction.**
   
@@ -41,6 +44,7 @@ The content of the course is divided in 4 sessions (3h each):
    - Clustering methods.
       
    - Dimensionality reduction.
+
       
 **S4: Model Evaluation and Applications in Research**
 
@@ -53,6 +57,7 @@ The content of the course is divided in 4 sessions (3h each):
   - Best practices in ML research.
   
   - Mini project.
+
 
 Authors: Claudia Serrano Colome
 
