@@ -6,17 +6,17 @@ The content of the course is divided in 4 sessions (3h each):
 
 S1: Introduction to Machine Learning and Data Preparation. 
 
-    Goal: Build a conceptual foundation and introduce the ML workflow with a focus on data.
+  Goal: Build a conceptual foundation and introduce the ML workflow with a focus on data.
     
-    Outline:
+  Outline:
     
-      - What is Machine Learning (ML)?
+   - What is Machine Learning (ML)?
       
-      - Types of ML.
+   - Types of ML.
       
-      - ML Workflow.
+   - ML Workflow.
       
-      - Data handling and Preprocessing.
+   - Data handling and Preprocessing.
       
 S2: Supervised Learning: Classification and Regression.
     Goal: Learn the foundations of *supervised ML* and practice with real datasets.
